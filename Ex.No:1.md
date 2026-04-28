@@ -81,7 +81,13 @@ return 0;
 
 
 ## OUTPUT 
-<img width="531" height="404" alt="image" src="https://github.com/user-attachments/assets/9c0de98e-11e5-4432-84d3-d8c844e8399a" />
+
+# SYMBOL FOUND
+<img width="1172" height="816" alt="image" src="https://github.com/user-attachments/assets/e50f11b6-5896-404c-96a0-0c6b882b4cc9" />
+
+
+# SYMBOL NOT FOUND
+<img width="1221" height="792" alt="image" src="https://github.com/user-attachments/assets/6da16eaf-60a6-41bd-b2aa-0f037fa198a7" />
 
 
 ## RESULT
